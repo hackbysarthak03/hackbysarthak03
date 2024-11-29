@@ -14,12 +14,18 @@ I’m a passionate developer on a mission to craft elegant, scalable, and impact
 ---
 
 🔭 **Current Projects**  
+- **Dr.Saheb! - One Stop destination for your Care**:  
+   *Real-time Video Call with Doctors*
+   *Patients can book their appointments - Anytime, Anywhere - get notified and Connect with doctor*
+   *Get Blogs from verified doctors!*
+  - **FakeNews Detection**:  
+   *Django Web Application to Detect Fake News - Either write the news or just upload the Screenshot - All this are acceptable*
+   *Authentication and dashboard to save your previous history*
 - **Soil Health & Crop Recommendation System**:  
    *A smart application for farmers, integrating IoT and ML to suggest the best crops based on soil NPK values, temperature, and moisture. Includes disease detection using TensorFlow and smart irrigation with IoT.*  
 - **Food Order WebApp**:  
    *An intuitive ReactJS-based platform to enhance online food ordering experiences.*  
-- **MongoDB Cloud Integration**:  
-   *Optimizing database management using Mongoose and implementing advanced MongoDB aggregations.*
+
 
 ---
 
