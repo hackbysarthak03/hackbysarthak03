@@ -18,7 +18,7 @@ I’m a passionate developer on a mission to craft elegant, scalable, and impact
    *Real-time Video Call with Doctors*
    *Patients can book their appointments - Anytime, Anywhere - get notified and Connect with doctor*
    *Get Blogs from verified doctors!*
-  - **FakeNews Detection**:  
+- **FakeNews Detection**:  
    *Django Web Application to Detect Fake News - Either write the news or just upload the Screenshot - All this are acceptable*
    *Authentication and dashboard to save your previous history*
 - **Soil Health & Crop Recommendation System**:  
